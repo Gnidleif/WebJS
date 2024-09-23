@@ -1,0 +1,18 @@
+
+a {
+    color: blue;
+    user-select: none;
+}
+
+a:hover {
+    cursor: pointer;
+    color: lightskyblue;
+}
+
+ol.menu-list {
+    list-style-type: none;
+}
+
+ol.menu-list a {
+    text-transform: capitalize;
+}
